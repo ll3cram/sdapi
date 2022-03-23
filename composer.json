@@ -1,5 +1,5 @@
 {
-    "name": "smartdealer/sdapi",
+    "name": "test/sdapi",
     "description": "Smart Dealer Client API",
     "type": "php-library",
     "require": {
